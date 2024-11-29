@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+#concesionarios {
+    border: 1px solid black;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+.imagenesBorrarCoche {
+    height: 20px;
+    width: 20px;
+}
+
+.imagenesBorrarConcesionario {
+    height: 20px;
+    width: 20px;
+}
